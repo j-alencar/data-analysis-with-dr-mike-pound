@@ -15,4 +15,4 @@ All code sourced from R scripts shown in the Youtube series, aside from practica
 
 ## Images:
 - Episode 6: Figure "Two equivalent views of principal component analysis" by Alex Williams. Part of the blog post "Everything you did and didn't know about PCA" published March 27, 2016. You can read the full blog post [here](https://alexhwilliams.info/itsneuronalblog/2016/03/27/pca/).
-- Episode 9: Figures courtesy of Oscar García-Olalla Olivera. Part of the blog post "Artificial Neural Networks: What they are and how they’re trained – Part I," published September 16, 2019, in the Xeridia blog. You can read the full blog post [here](https://www.xeridia.co.uk/blog/artificial-neural-networks-what-they-are-and-how-theyre-trained-part-i).
+- Episode 9: Figures courtesy of Oscar García-Olalla Olivera. Part of the blog post "Artificial Neural Networks: What they are and how they’re trained – Part I," published September 16, 2019, in the Xeridia blog. Full blog post [here](https://www.xeridia.co.uk/blog/artificial-neural-networks-what-they-are-and-how-theyre-trained-part-i).
